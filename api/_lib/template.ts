@@ -134,7 +134,7 @@ export function getHtml(parsedReq: ParsedRequest) {
   <style>
     ${getCss(theme, fontSize)}
   </style>
-  <link rel="stylesheet" href="http://assets.lachlanjc.me/bf566c6457ac/gotham.css" />
+  <link rel="stylesheet" href="https://d2wkqk610zk1ag.cloudfront.net/items/143Y3N3Z2W3c2p312s2C/gotham.css" />
   <body>
     <div class="brand">
       <img class="avatar" src="https://github.com/lachlanjc.png">
